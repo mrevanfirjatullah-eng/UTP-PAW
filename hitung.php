@@ -17,7 +17,7 @@ $diskon = 0;
 
 // total harga
 $total = $subtotal;
-
+$total = 110,000.00
 // cek valid
 $valid = true;
 $pesan = "";

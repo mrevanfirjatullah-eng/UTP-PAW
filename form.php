@@ -28,10 +28,10 @@
 
 <h2>Form Pemesanan</h2>
 <form action="proses.php" method="post">
-    Nama: <!-- Input Text Nama -->
-    Menu Ramen: <!-- Input Pilihan Menu Ramen -->
-    Jumlah: <!-- Input Jumlah -->
-    Kategori Pelanggan: <!-- Input Pilihan Jenis Pelanggan -->
+    Nama: Sinta
+    Menu Ramen: Shoyu Ramen
+    Jumlah: 1
+    Kategori Pelanggan: pedas
     
     <!-- Submit -->
 </form>

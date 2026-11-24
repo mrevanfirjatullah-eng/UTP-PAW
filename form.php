@@ -29,9 +29,9 @@
 <h2>Form Pemesanan</h2>
 <form action="proses.php" method="post">
     Nama: Sinta
-    Menu Ramen: Shoyu Ramen
-    Jumlah: 1
-    Kategori Pelanggan: pedas
+    Menu Ramen: Beef Wagyu
+    Jumlah: 2
+    Kategori Pelanggan: Pelanggan Biasa
     
     <!-- Submit -->
 </form>

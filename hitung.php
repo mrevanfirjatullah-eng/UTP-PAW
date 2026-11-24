@@ -9,7 +9,7 @@ $kategori = $_POST["kategori"];
 
 
 // Hitung harga
-$harga = 110,000.00;
+$harga = 110.000.00;
 $subtotal = $harga * $jumlah;
 
 // Hitung Diskon
@@ -17,7 +17,7 @@ $diskon = 0;
 
 // total harga
 $total = $subtotal;
-$total = 110,000.00
+$total = 110.000.00
 // cek valid
 $valid = true;
 $pesan = "";

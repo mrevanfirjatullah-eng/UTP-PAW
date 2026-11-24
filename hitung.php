@@ -7,12 +7,13 @@ $kategori = $_POST["kategori"];
 
 // Kerjakan mulai darisini
 
+
 // Hitung harga
 $harga = 0;
 $subtotal = $harga * $jumlah;
 
 // Hitung Diskon
-$diskon = 0;
+$diskon = 15%;
 
 // total harga
 $total = $subtotal;
